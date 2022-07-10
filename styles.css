@@ -1,0 +1,24 @@
+
+
+h1 {
+   position: absolute;
+  font-size: larger;
+  font-style: italic;
+   text-align: center;
+  top: 50%;
+  left:50%;
+
+}
+
+.circle {
+   position: absolute;
+   width: 100px;
+   height: 100px;
+   background-color: rgb(224, 224, 31);
+   border-radius: 50%;
+   border-color: rgb(34, 2, 2);
+   border-width: 10px;
+   border-style: solid;
+   margin-left: 50%;
+}
+
